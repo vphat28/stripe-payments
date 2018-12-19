@@ -1,0 +1,53 @@
+
+1.0.5 - 2018-05-09
+- STRIPE-656: Add statement_descriptor to source creation
+- STRIPE-655: Remove succeeding_charge
+- STRIPE-654: Regional payment methods - country determination needs to be based off billing address
+- STRIPE-645: Add customer email to charge description
+- STRIPE-653: Delete source from customer when stored payment method deleted
+- STRIPE-647: P24 - remove the "can take up to 14 days"
+- SP-597: Implement Vault for Credit Card method
+
+1.0.4 - 2018-04-05
+
+- SP-594: Display items list in payment sheet instead of just total
+- SP-592: Fix configuration files that make checkout page broken
+- SP-591: Payment Sheet should now open when product size/color selection is required
+- SP-590: Handle source.canceled event from webhook
+- SP-589: Reorder payment elements in Magento admin panel
+- SP-588: Collect owner details in client-side source creation
+- SP-587: Put stripe elements params into config
+- SP-585: SEPA - add email sending in source creation
+- SP-583: Call setAppInfo before using secret key in serverside
+- SP-582: Sofort and Sepa - Mage Admin - Order note - at the bottom put currency sign
+before the amount.
+- SP-580: Store Customer ID from Stripe when user logged in and submit the id in charge
+requests
+- SP-565: Fix bug, Instant Checkout - when shipping is selected, total is not updated
+- SP-564: Fix bug, Pay Now button - doesn't pickup proper amount on multiple items when
+clicked on product page
+
+
+1.0.3 - 2018-03-26
+
+- SP-552: Fix bug, Pay Now Button Responsive Design
+- SP-548: Set additional charge request data
+- SP-546: Show more information on order confirmation
+- SP-545: Stripe IDs no longer be displayed for front end users
+- SP-544: Support 3D Secure for Pay Now buttons
+
+1.0.2 - 2018-03-10
+- Enable SOFORT
+- Enable SEPA
+- Enable GiroPay
+- Enable AliPay
+- Enable P24
+- Enable BanContact
+- Enable iDeal
+
+1.0.1 - 2018-02-27
+- Implement webhook to handle stripe notifications
+- Enable 3DS support for credit card payment method
+
+1.0.0 - 2018-02-02
+- Initial Release
