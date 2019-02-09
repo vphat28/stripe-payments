@@ -1,7 +1,7 @@
 {
   "name": "stripeofficial/stripe-payments",
   "description": "Stripe Payment Methods suite",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "type": "metapackage",
   "require": {
     "stripeofficial/module-core": ">=2.0.1",
@@ -10,7 +10,7 @@
     "stripeofficial/module-creditcards": ">=1.0.8",
     "stripeofficial/module-giropay": ">=1.0.2",
     "stripeofficial/module-ideal": ">=1.0.2",
-    "stripeofficial/module-instant-checkout": ">=1.0.7",
+    "stripeofficial/module-instant-checkout": ">=1.0.8",
     "stripeofficial/module-przelewy": ">=1.0.0",
     "stripeofficial/module-sepa": ">=1.0.1",
     "stripeofficial/module-sofort": ">=1.0.2"
