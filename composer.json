@@ -1,19 +1,19 @@
 {
   "name": "stripeofficial/stripe-payments",
   "description": "Stripe Payment Methods suite",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "type": "metapackage",
   "require": {
-    "stripeofficial/module-core": ">=2.0.1",
-    "stripeofficial/module-alipay": ">=1.0.3",
-    "stripeofficial/module-bancontact": ">=1.0.2",
-    "stripeofficial/module-creditcards": ">=1.0.8",
-    "stripeofficial/module-giropay": ">=1.0.2",
-    "stripeofficial/module-ideal": ">=1.0.2",
-    "stripeofficial/module-instant-checkout": ">=1.0.8",
-    "stripeofficial/module-przelewy": ">=1.0.0",
-    "stripeofficial/module-sepa": ">=1.0.1",
-    "stripeofficial/module-sofort": ">=1.0.2"
+    "stripeofficial/module-core": ">=2.0.5",
+    "stripeofficial/module-alipay": ">=1.0.4",
+    "stripeofficial/module-bancontact": ">=1.0.4",
+    "stripeofficial/module-creditcards": ">=1.0.12",
+    "stripeofficial/module-giropay": ">=1.0.4",
+    "stripeofficial/module-ideal": ">=1.0.4",
+    "stripeofficial/module-instant-checkout": ">=1.0.9",
+    "stripeofficial/module-przelewy": ">=2.0.2",
+    "stripeofficial/module-sepa": ">=1.0.4",
+    "stripeofficial/module-sofort": ">=1.0.4"
   },
   "license": [
     "OSL-3.0",
