@@ -4,7 +4,7 @@
   "version": "2.0.9",
   "type": "metapackage",
   "require": {
-    "stripeofficial/module-core": ">=2.0.5",
+    "stripeofficial/module-core": ">=2.0.7",
     "stripeofficial/module-alipay": ">=1.0.4",
     "stripeofficial/module-bancontact": ">=1.0.4",
     "stripeofficial/module-creditcards": ">=1.0.12",
