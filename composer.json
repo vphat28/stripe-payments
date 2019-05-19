@@ -1,13 +1,13 @@
 {
   "name": "stripeofficial/stripe-payments",
   "description": "Stripe Payment Methods suite",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "type": "metapackage",
   "require": {
-    "stripeofficial/module-core": ">=2.0.7",
+    "stripeofficial/module-core": ">=2.0.13",
     "stripeofficial/module-alipay": ">=1.0.4",
     "stripeofficial/module-bancontact": ">=1.0.4",
-    "stripeofficial/module-creditcards": ">=1.0.12",
+    "stripeofficial/module-creditcards": ">=1.0.18",
     "stripeofficial/module-giropay": ">=1.0.4",
     "stripeofficial/module-ideal": ">=1.0.4",
     "stripeofficial/module-instant-checkout": ">=1.0.9",
